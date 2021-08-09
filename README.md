@@ -1,1 +1,1 @@
-# html_css_practice
+# Website Development Practice \w Pure HTML and CSS
