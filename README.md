@@ -1,4 +1,4 @@
-# FCC Project Assignment - Responsive Web Design
+# FCC Project Assignment
 
 ### Projects
 - Tribute Page - https://codepen.io/mahfuz225bd/full/yLazRBX
